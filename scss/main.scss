@@ -340,6 +340,17 @@ img {
         height: 100px;
       }
 
+      input {
+        border: none;
+        border-bottom: 1px solid $dark-color;
+        outline: none;
+      }
+
+      textarea {
+        border-radius: 5px;
+        outline: none;
+      }
+
       .text-input {
         padding: 0.5rem 1rem;
       }
@@ -394,3 +405,6 @@ img {
     }
   }
 }
+
+//Import Media Queries
+@import "media";
