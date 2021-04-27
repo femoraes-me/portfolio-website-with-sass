@@ -35,6 +35,9 @@ O projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## ⌨ Como executar o projeto
 
-Baixe o arquivo .ZIP do projeto e após descompactar abra o arquivo index.html
+Após instalação do node.js em sua máquina rode os seguintes comandos no terminal
+- npm init
+- npm install node-sass -D
+- npm run sass
 
 ---
