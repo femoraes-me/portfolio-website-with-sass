@@ -28,8 +28,8 @@ Página web de portfólio pessoal utilizando a tecnologia SASS para construção
 ## 🚀 Tecnologias utilizadas
 O projeto está sendo desenvolvido com as seguintes tecnologias:
 - HTML5
-- CSS3
 - SASS
+- JavaScript
 
 ---
 
